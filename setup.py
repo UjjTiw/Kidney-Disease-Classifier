@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Kidney-Disease-Classifier"
 AUTHOR_USER_NAME = "UjjTiw"
-SRC_REPO = "Kidney-Disease-Classifier"
+SRC_REPO = "DiseaseClassifier"
 AUTHOR_EMAIL = "ujjwaltiwari2004razor@gmail.com"
 
 setuptools.setup(

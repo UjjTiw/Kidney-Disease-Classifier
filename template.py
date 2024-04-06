@@ -5,7 +5,7 @@ import logging
 #logging string
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name= 'Kidney-Disease-Classifier'
+project_name= 'DiseaseClassifier'
 
 list_of_files = [
     ".github/workflows/.gitkeep", #.gitkeep use to commit empty directory too
