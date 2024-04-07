@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-[https://github.com/UjjTiw/Kidney-Disease-Classifier]
+https://github.com/UjjTiw/Kidney-Disease-Classifier
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
